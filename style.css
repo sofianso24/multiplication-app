@@ -59,12 +59,13 @@ form{
 .result{
     margin-bottom: 8%;
     border-radius: 30px;
-    padding: 10px 40px 20px;
+    padding: 10px 40px ;
     background: radial-gradient(208.55% 433.93% at 8.37% 14.8%, rgba(248, 245, 249, 0.4) 3.65%, rgba(169, 159, 177, 0) 100%);
     backdrop-filter: blur(60px);
     border: transparent;
     color : #fff;
-    outline: none
+    outline: none;
+    text-align: center;
 }
 
 ::placeholder{
